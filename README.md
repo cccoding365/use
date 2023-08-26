@@ -26,6 +26,7 @@ Some practical tools used in daily study, work and life, are constantly updated.
 - [TaskbarX](https://taskbarx.org/) - The ultimate tool to add style and functionality to your taskbar
 - [EarTrumpet](https://eartrumpet.app/) - Volume control for Windows
 - [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3) - a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework.
+- [Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701) - 一款新式、快速、高效、强大且高效的终端应用程序，适用于命令行工具和命令提示符，PowerShell和 WSL 等 Shell 用户。
 
 ## Other
 - [Postman](https://www.postman.com/) - An API platform for building and using APIs
